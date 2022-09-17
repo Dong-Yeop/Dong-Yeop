@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=DongYeop&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi%20there%20👋%20I'm%20DongYeop&fontSize=55&animation=twinkling)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
